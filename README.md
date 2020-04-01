@@ -1,5 +1,5 @@
 # Hacker-News
-A simple app with TableView to show off Hacker News Algolia's all stories that are on the front/home page right now.
+A simple app with TableView to show off Hacker News Algolia's all stories that are on the home page right now.
 * SwiftUI
 * Observer Design Pattern
 * Hacker News Algolia API used.
